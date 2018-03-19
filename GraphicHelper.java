@@ -56,7 +56,7 @@ public class GraphicHelper {
 			
 }
 /*
-	调用，与前端传过来的进行验证
+	调用方法，与前端传过来的进行验证
 		String code = req.getSession().getAttribute("code").toString();
 		if(code!=null && code.equalsIgnoreCase(codenum)){
 			//验证通过
